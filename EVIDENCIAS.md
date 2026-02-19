@@ -5,20 +5,20 @@
 Captura de pantalla en:
 Settings → Pages mostrando la URL activa.
 
-![GitHub Pages](./img/pages-activo.png)
+![GitHub Pages](images/github-pages.jpg)
 
 URL del sitio:
-https://usuario.github.io/nombre-del-repo/
+https://antodollparts.github.io/antonella-junco-portfolio/
 
 ---
 
 ## Sitio en el Navegador
 
 ### Vista 1
-![Vista principal](./img/vista1.png)
+![Vista principal](images/vista-1.jpg)
 
 ### Vista 2
-![Vista secundaria](./img/vista2.png)
+![Vista secundaria](images/vista-2.jpg)
 
 ---
 
@@ -50,6 +50,8 @@ Porque mejoran la accesibilidad, el SEO y la organización del código.
 Utilicé commits pequeños y descriptivos:
 - feat: agrega estructura HTML y CSS
 - docs: actualizar README y documentación del proyecto
+- fix: corregir errores
+- chore: modificaciones generales que no afectan a la funcionalidad
 
 ---
 

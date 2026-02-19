@@ -1,4 +1,4 @@
-# Portafolio  — Página Web en HTML y CSS
+# Portafolio profesional  — Antonella Junco Morán
 
 Bienvenida/o a mi portafolio de desarrolladora de software.  
 Este proyecto muestra mis habilidades técnicas, proyectos y conocimientos en desarrollo web y móvil.
