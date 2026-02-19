@@ -218,10 +218,10 @@
   .skill-pct { font-size: .82rem; color: var(--muted); }
   .skill-name { font-size: .82rem; color: var(--purple-light); font-weight: 500; }
 
-  /* ─── PROJECTS ─── */
+  /*  PROJECTS  */
   #projects { background: var(--bg2); }
 
-  /* ─── CTA ─── */
+  /*  CTA  */
   #cta {
     background: var(--bg3); text-align: center; padding: 6rem 5%;
     position: relative; overflow: hidden;
